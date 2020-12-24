@@ -1,6 +1,7 @@
 # Zeppelin 0.7.2 中文文档
 
 +   [在线阅读](https://zeppelin.apachecn.org)
++   [在线阅读（Gitee）](https://apachecn.gitee.io/zeppelin-doc-zh/)
 
 
 ## 下载
